@@ -1,0 +1,8 @@
+https://opengameart.org/sites/default/files/more_breakout_pieces.png -broken blocks
+https://opengameart.org/sites/default/files/breakout_pieces_2.png -full blocks
+https://opengameart.org/sites/default/files/DST-TowerDefenseTheme_1.mp3 -main theme 1
+https://opengameart.org/sites/default/files/133008__cosmicd__annulet-of-absorption.wav -score plus
+https://opengameart.org/sites/default/files/Error%20or%20failed.mp3 -lose sound
+https://opengameart.org/sites/default/files/Iwan%20Gabovitch%20-%20Dark%20Ambience%20Loop.mp3 -lose soundtrack
+https://opengameart.org/sites/default/files/Beyond%20The%20Clouds%20%28Dungeon%20Plunder%29_0.mp3 -winner music
+https://opengameart.org/sites/default/files/attack_hit.mp3 -hit

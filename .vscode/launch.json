@@ -1,0 +1,24 @@
+{
+    "configurations": [
+    {
+        "type": "java",
+        "name": "Debug (Attach)",
+        "request": "attach",
+        "hostName": "localhost",
+        "port": "<debug port of the debuggee>"
+    },
+    {
+        "type": "extensionHost",
+        "request": "launch",
+        "name": "Launch Extension",
+        "runtimeExecutable": "${execPath}",
+        "args": [
+            "--extensionDevelopmentPath=${workspaceFolder}"
+        ],
+        "outFiles": [
+            "${workspaceFolder}/out/**/*.js"
+        ],
+        "preLaunchTask": "npm"
+    }
+    ]
+}
